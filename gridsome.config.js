@@ -1,8 +1,8 @@
 const path = require('path');
 
 module.exports = {
-  siteName: 'Casper',
-  siteDescription: 'an awesome Gridsome starter kit',
+  siteName: 'Korean Series',
+  siteDescription: 'The Most Popular Korean Series',
   siteUrl: 'https://ThitiratSaelim.github.io',
   pathPrefix: '/6110110113_Assignment3_Gridsome',
 
